@@ -1,9 +1,9 @@
-# Oi, eu sou o Guilherme!
+# Oiie, eu sou a Iris!
 
-### Tenho 18 anos e estou cursando Análise e Desenvolvimento de Sistemas na Universidade da Cidade de São Paulo (UNICID), atualmente no 1º semestre de um curso de 4 semestres. Minha paixão por tecnologia começou cedo, quando descobri como jogos, consoles e computadores funcionavam. Em 2020, tive meu primeiro contato com HTML ao personalizar meu perfil no site SpaceHey, o que despertou meu interesse por programação. Também fiz cursos de informática, e hoje minhas linguagens favoritas são Python e HTML. Estou sempre explorando novos conhecimentos para crescer na área de tecnologia!
+### Tenho 19 anos e estou cursando Análise e Desenvolvimento de Sistemas na Universidade da Cidade de São Paulo (UNICID), atualmente no 1º semestre. Minha paixão por tecnologia começou cedo, quando descobri . Em 2020, tive meu primeiro contato com HTML ao personalizar meu perfil no site SpaceHey, o que despertou meu interesse por programação. Também fiz cursos de informática, e hoje minhas linguagens favoritas são Python e HTML. Estou sempre explorando novos conhecimentos para crescer na área de tecnologia!
 
 
-<img hight="400" width="450" alt="GIF" align="right" src="tumblr_5e2f9129ecc89fc1a9eeec549aaaa812_17dabf3b_500.gif">
+<img hight="400" width="450" alt="GIF" align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3BteHo5bmIxZ3JxempkNW9mZmtxZjc5ZHkzMWVkbzQ4b3hqMm5hdCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/JmOCq0T5qEJyZ3oQj8/giphy.gif">
 
 ### - Atualmente, estou aprendendo :
 - <img hight="10" width="20" align="center" src="https://media.tenor.com/uPKBSSYU8BcAAAAj/computer-pixel.gif"> Organização e arquitetura de computadores

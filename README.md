@@ -17,19 +17,20 @@
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=225aocm5uin6oztatlyqmvtuq&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=225aocm5uin6oztatlyqmvtuq&redirect=true)
 - 💗 Assistir filmes <img hight="10" width="20" align="center" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExazF1c2syb2JveXAwMXR3ZWMxNmFkc2FpNTJud2tnM2o3MGxrODBlMSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/LXCUixDV3o95m/giphy.gif">
 - 💗 Desenhar <img hight="30" width="40" align="center" src="https://media.tenor.com/dh1W3uHt_zsAAAAi/emoji-smiley.gif">
-- 💗 Jogar (MOBA/RPG/Jogos Indie!!) <img hight="10" width="20" align="center" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcW9qeDdneWhuanU5Yms1dXNnbWdkOG9pYTQ0dDdtdnhsMDJybjl2MSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/CWDYh6I6t6SqmGBvyY/giphy.gif">
+- 💗 Jogar (MOBA/RPG/Jogos Indie!!) <img hight="10" width="20" align="center" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcW14M3k5eHFtMGNodGxlYWM1ZTdjMXhxcG85Y2xqaWc4cmtzbG5iNCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/vSdjNjzOPW2wOEUYN4/giphy.gif">
 
 
-# Minhas linguagens e ferramentas 👩🏻‍💻 🛠:
+# Minhas linguagens de programação e ferramentas 👩🏻‍💻 🛠:
 
 </br>
 <p align="center">
 
-![Python](https://img.icons8.com/ios/452/python.png)
-![JavaScript](https://img.icons8.com/ios/452/javascript.png)
-![HTML5](https://img.icons8.com/ios/452/html-5.png)
-![CSS3](https://img.icons8.com/ios/452/css3.png)
-![Figma](https://img.icons8.com/ios/452/figma.png)
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=round&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=round&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=round&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=round&logo=css3&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=round&logo=figma&logoColor=white)
 
 
 <img hight="250" width="320" alt="GIF" align="center" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnducGQ0cjFmY3d2eXZoYmk1c2ppcDBjbjRtMWNiNHM2aHYwZDVzaSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/ao9DUiTKH60XS/giphy.gif">
@@ -40,7 +41,7 @@
 Se quiser entrar em contato comigo, pode me encontrar em:
 
 ✉️ irispfister.code@gmail.com
-Linkedin: www.linkedin.com/in/iris-p-40982b260
+💻 Linkedin: www.linkedin.com/in/iris-p-40982b260
 
 
 <img hight="150" width="220" alt="GIF" align="left" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2djb29pZTd4cXJ1ODI4czJnZGdmeDl1b2Rzc2l4b290OTN3ejdpMSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/drqmAm0kLnqPVzFB2p/giphy.gif">

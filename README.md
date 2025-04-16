@@ -5,19 +5,19 @@
 <img hight="400" width="450" alt="GIF" align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3BteHo5bmIxZ3JxempkNW9mZmtxZjc5ZHkzMWVkbzQ4b3hqMm5hdCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/JmOCq0T5qEJyZ3oQj8/giphy.gif">
 
 ### - Atualmente, estou aprendendo na faculdade:
-- <img hight="10" width="20" align="center" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHVucm1meXc5OXlkMDE5cHB6ejUxZms5cmMxNzdvMHN4N3p3Zno4dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/0rrazFIa81ovX1ykyZ/giphy.gif"> Organização e arquitetura de computadores
-- <img hight="10" width="20" align="center" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHVucm1meXc5OXlkMDE5cHB6ejUxZms5cmMxNzdvMHN4N3p3Zno4dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/0rrazFIa81ovX1ykyZ/giphy.gif"> Programação de computadores
-- <img hight="10" width="20" align="center" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHVucm1meXc5OXlkMDE5cHB6ejUxZms5cmMxNzdvMHN4N3p3Zno4dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/0rrazFIa81ovX1ykyZ/giphy.gif"> Modelagem de negócios e requisitos
-- <img hight="10" width="20" align="center" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHVucm1meXc5OXlkMDE5cHB6ejUxZms5cmMxNzdvMHN4N3p3Zno4dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/0rrazFIa81ovX1ykyZ/giphy.gif"> Aplicações para internet
-- <img hight="10" width="20" align="center" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHVucm1meXc5OXlkMDE5cHB6ejUxZms5cmMxNzdvMHN4N3p3Zno4dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/0rrazFIa81ovX1ykyZ/giphy.gif"> Empreendedorismo
+- <img hight="10" width="20" align="center" src="https://media.giphy.com/media/UhODKA04OkFYZTwich/giphy.gif?cid=ecf05e47m39bppj3avmbf982g0hvv0owserd30gummp32ojw&ep=v1_stickers_search&rid=giphy.gif&ct=s"> Organização e arquitetura de computadores
+- <img hight="10" width="20" align="center" src="https://media.giphy.com/media/UhODKA04OkFYZTwich/giphy.gif?cid=ecf05e47m39bppj3avmbf982g0hvv0owserd30gummp32ojw&ep=v1_stickers_search&rid=giphy.gif&ct=s"> Programação de computadores
+- <img hight="10" width="20" align="center" src="https://media.giphy.com/media/UhODKA04OkFYZTwich/giphy.gif?cid=ecf05e47m39bppj3avmbf982g0hvv0owserd30gummp32ojw&ep=v1_stickers_search&rid=giphy.gif&ct=s"> Modelagem de negócios e requisitos
+- <img hight="10" width="20" align="center" src="https://media.giphy.com/media/UhODKA04OkFYZTwich/giphy.gif?cid=ecf05e47m39bppj3avmbf982g0hvv0owserd30gummp32ojw&ep=v1_stickers_search&rid=giphy.gif&ct=s"> Aplicações para internet
+- <img hight="10" width="20" align="center" src="https://media.giphy.com/media/UhODKA04OkFYZTwich/giphy.gif?cid=ecf05e47m39bppj3avmbf982g0hvv0owserd30gummp32ojw&ep=v1_stickers_search&rid=giphy.gif&ct=s"> Empreendedorismo
 
 ### - Meus hobbies são : 
 - 💗 Ouvir música
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=225aocm5uin6oztatlyqmvtuq&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=225aocm5uin6oztatlyqmvtuq&redirect=true)
-- 💗 Assistir filmes <img hight="10" width="20" align="center" src="https://media.tenor.com/YlX9YBz9FXcAAAAi/ellen-ripley-alien.gif">
+- 💗 Assistir filmes <img hight="10" width="20" align="center" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExazF1c2syb2JveXAwMXR3ZWMxNmFkc2FpNTJud2tnM2o3MGxrODBlMSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/LXCUixDV3o95m/giphy.gif">
 - 💗 Desenhar <img hight="30" width="40" align="center" src="https://media.tenor.com/dh1W3uHt_zsAAAAi/emoji-smiley.gif">
-- 💗 Jogos (MOBA/RPG!!) <img hight="10" width="20" align="center" src="https://media.tenor.com/HAdTDahjyQEAAAAi/yagami.gif">
+- 💗 Jogar (MOBA/RPG/Jogos Indie!!) <img hight="10" width="20" align="center" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcW9qeDdneWhuanU5Yms1dXNnbWdkOG9pYTQ0dDdtdnhsMDJybjl2MSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/CWDYh6I6t6SqmGBvyY/giphy.gif">
 
 
 # Minhas linguagens e ferramentas 👩🏻‍💻 🛠:
@@ -25,9 +25,14 @@
 </br>
 <p align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=html,aiscript,python,discord,github,windows)](https://skillicons.dev)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 
-<img hight="250" width="320" alt="GIF" align="center" src="https://i.gifer.com/3qVd.gif">
+
+<img hight="250" width="320" alt="GIF" align="center" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnducGQ0cjFmY3d2eXZoYmk1c2ppcDBjbjRtMWNiNHM2aHYwZDVzaSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/ao9DUiTKH60XS/giphy.gif">
 </br>
 
 # Me contate! 📩 :

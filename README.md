@@ -2,7 +2,7 @@
 ### Tenho 19 anos e estou cursando Análise e Desenvolvimento de Sistemas na Universidade da Cidade de São Paulo (UNICID), atualmente no 1º semestre. Minha paixão por tecnologia começou cedo, quando, aos 12 anos, participei de um curso de robótica e descobri meu amor por jogos. Em 2023, tive meu primeiro contato com JavaScript em um curso de lógica de programação, o que despertou ainda mais meu interesse pela área de desenvolvimento. Desde então, venho realizando diversos cursos na área, e minhas linguagens de programação favoritas são Python e JavaScript. Estou sempre em busca de novos conhecimentos para evoluir e crescer profissionalmente no setor de tecnologia!
 
 
-<img hight="400" width="450" alt="GIF" align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3BteHo5bmIxZ3JxempkNW9mZmtxZjc5ZHkzMWVkbzQ4b3hqMm5hdCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/JmOCq0T5qEJyZ3oQj8/giphy.gif">
+<img hight="400" width="450" alt="GIF" align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDE4cDBpaGN1NnV6dTBvODZmdmc3aHIxZnZmcjE1MXBhcG9oY2o2aCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/Evdiauh9dyHxEcWiI1/giphy.gif">
 
 ### - Atualmente, estou aprendendo na faculdade:
 - <img hight="10" width="20" align="center" src="https://media.giphy.com/media/UhODKA04OkFYZTwich/giphy.gif?cid=ecf05e47m39bppj3avmbf982g0hvv0owserd30gummp32ojw&ep=v1_stickers_search&rid=giphy.gif&ct=s"> Organização e arquitetura de computadores
@@ -25,21 +25,12 @@
 </br>
 <p align="center">
 
-<a href="https://www.python.org/" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" width="50" />
-</a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript" width="50" />
-</a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/69/HTML5_logo_and_wordmark.svg" alt="HTML" width="50" />
-</a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg" alt="CSS" width="50" />
-</a>
-<a href="https://www.figma.com/" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/5/5c/Figma-logo.svg" alt="Figma" width="50" />
-</a>
+![Python](https://img.icons8.com/ios/452/python.png)
+![JavaScript](https://img.icons8.com/ios/452/javascript.png)
+![HTML5](https://img.icons8.com/ios/452/html-5.png)
+![CSS3](https://img.icons8.com/ios/452/css3.png)
+![Figma](https://img.icons8.com/ios/452/figma.png)
+
 
 <img hight="250" width="320" alt="GIF" align="center" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnducGQ0cjFmY3d2eXZoYmk1c2ppcDBjbjRtMWNiNHM2aHYwZDVzaSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/ao9DUiTKH60XS/giphy.gif">
 </br>

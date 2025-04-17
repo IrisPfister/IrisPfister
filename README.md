@@ -1,5 +1,7 @@
 # Oiie, eu sou a Iris!
-### Tenho 19 anos e estou cursando Análise e Desenvolvimento de Sistemas na Universidade da Cidade de São Paulo (UNICID), atualmente no 1º semestre. Minha paixão por tecnologia começou cedo, quando, aos 12 anos, participei de um curso de robótica e descobri meu amor por jogos. Em 2023, tive meu primeiro contato com JavaScript em um curso de lógica de programação, o que despertou ainda mais meu interesse pela área de desenvolvimento. Desde então, venho realizando diversos cursos na área, e minhas linguagens de programação favoritas são Python e JavaScript. Estou sempre em busca de novos conhecimentos para evoluir e crescer profissionalmente no setor de tecnologia!
+### Tenho 19 anos e estou cursando Análise e Desenvolvimento de Sistemas na Universidade da Cidade de São Paulo (UNICID), atualmente no 1º semestre. Minha paixão por tecnologia começou cedo, quando, aos 12 anos, participei de um curso de robótica e descobri meu amor por jogos. 
+
+Em 2023, tive meu primeiro contato com JavaScript em um curso de lógica de programação, o que despertou ainda mais meu interesse pela área de desenvolvimento. Desde então, venho realizando diversos cursos na área, e minhas linguagens de programação favoritas são Python e JavaScript. Estou sempre em busca de novos conhecimentos para evoluir e crescer profissionalmente no setor de tecnologia!
 
 
 <img hight="400" width="450" alt="GIF" align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDE4cDBpaGN1NnV6dTBvODZmdmc3aHIxZnZmcjE1MXBhcG9oY2o2aCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/Evdiauh9dyHxEcWiI1/giphy.gif">

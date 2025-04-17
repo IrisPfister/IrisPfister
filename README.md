@@ -33,7 +33,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="50" height="50"/>
 
 
-<img hight="250" width="320" alt="GIF" align="center" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnducGQ0cjFmY3d2eXZoYmk1c2ppcDBjbjRtMWNiNHM2aHYwZDVzaSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/ao9DUiTKH60XS/giphy.gif">
+<img hight="280" width="350" alt="GIF" align="center" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnducGQ0cjFmY3d2eXZoYmk1c2ppcDBjbjRtMWNiNHM2aHYwZDVzaSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/ao9DUiTKH60XS/giphy.gif">
 </br>
 
 # Me contate! 📩 :

@@ -1,6 +1,6 @@
-<h1 align="center">👋 Olá! Meu nome é Iris.</h1>
+<h1 align="center">👋 Olá Mundo! Meu nome é Iris.</h1>
 
-<p align="center">💻 Estudante de Análise e Desenvolvimento de Sistemas | Entusiasta de tecnologia, design e desenvolvimento front-end</p>
+<p align="center">💻 Estudante de Análise e Desenvolvimento de Sistemas | Entusiasta de tecnologia, design e desenvolvimento front e back-end</p>
 
 ---
 
@@ -56,11 +56,12 @@ Em **2023**, iniciei meus estudos em **JavaScript** e me encantei com o universo
 ### 📫 Como me encontrar:
 
 <div align="center">
-  <a href="mailto:irispfister.code@gmail.com" target="_blank">
+  <div align="center">
+  <a href="mailto:irispfister.code@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
   &nbsp;
-  <a href="https://www.linkedin.com/in/iris-p-40982b260/" target="_blank">
+  <a href="www.linkedin.com/in/irispfister" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>

@@ -1,40 +1,62 @@
-# 👋 Olá! Meu nome é Iris.
-### Tenho 19 anos e estou cursando Análise e Desenvolvimento de Sistemas na Universidade de São Paulo (UNICID), atualmente no 1º semestre.
-Minha paixão por tecnologia começou cedo: aos 12 anos, participei de um curso de robótica e descobri meu amor por jogos e desenvolvimento.
+<h1 align="center">👋 Olá! Meu nome é Íris.</h1>
 
-Em 2023, comecei meus estudos em JavaScript e me encantei pelo mundo da programação. Desde então, venho explorando diversas linguagens e ferramentas, sempre com o objetivo de crescer profissionalmente e contribuir com projetos inovadores.
+<p align="center">💻 Estudante de Análise e Desenvolvimento de Sistemas | Entusiasta de tecnologia, design e desenvolvimento front-end</p>
 
+---
 
-<img hight="300" width="350" alt="GIF" align="right" src="https://media.giphy.com/media/1tDAzdBoIl5GwAsgpd/giphy.gif?cid=ecf05e47onbp6dle4igy6yg97gj3tvyt367e4yembmplzilu&ep=v1_stickers_search&rid=giphy.gif&ct=s">
+### 🧠 Sobre mim
 
-### - 📚 Atualmente estudando na faculdade:
-- <img hight="10" width="20" align="center" src="https://media.giphy.com/media/UhODKA04OkFYZTwich/giphy.gif?cid=ecf05e47m39bppj3avmbf982g0hvv0owserd30gummp32ojw&ep=v1_stickers_search&rid=giphy.gif&ct=s"> Organização e arquitetura de computadores
-- <img hight="10" width="20" align="center" src="https://media.giphy.com/media/UhODKA04OkFYZTwich/giphy.gif?cid=ecf05e47m39bppj3avmbf982g0hvv0owserd30gummp32ojw&ep=v1_stickers_search&rid=giphy.gif&ct=s"> Programação de computadores
-- <img hight="10" width="20" align="center" src="https://media.giphy.com/media/UhODKA04OkFYZTwich/giphy.gif?cid=ecf05e47m39bppj3avmbf982g0hvv0owserd30gummp32ojw&ep=v1_stickers_search&rid=giphy.gif&ct=s"> Modelagem de negócios e requisitos
-- <img hight="10" width="20" align="center" src="https://media.giphy.com/media/UhODKA04OkFYZTwich/giphy.gif?cid=ecf05e47m39bppj3avmbf982g0hvv0owserd30gummp32ojw&ep=v1_stickers_search&rid=giphy.gif&ct=s"> Aplicações para internet
-- <img hight="10" width="20" align="center" src="https://media.giphy.com/media/UhODKA04OkFYZTwich/giphy.gif?cid=ecf05e47m39bppj3avmbf982g0hvv0owserd30gummp32ojw&ep=v1_stickers_search&rid=giphy.gif&ct=s"> Empreendedorismo
+Tenho 19 anos e estou cursando **Análise e Desenvolvimento de Sistemas** na **Universidade de São Paulo (UNICID)**, atualmente no **1º semestre**.
 
-### - 🎧 Hobbies e interesses pessoais:
-- 💗 Ouvir música
+Minha paixão por tecnologia começou cedo — aos **12 anos**, participei de um curso de robótica e descobri meu amor por **jogos e desenvolvimento**.
 
+Em **2023**, iniciei meus estudos em **JavaScript** e me encantei com o universo da programação. Desde então, venho explorando diversas linguagens e ferramentas, sempre com o objetivo de crescer profissionalmente e contribuir com projetos inovadores.
+
+<img align="right" height="200" src="https://media.giphy.com/media/1tDAzdBoIl5GwAsgpd/giphy.gif" alt="Data doesn't lie gif"/>
+
+---
+
+### 🎓 Atualmente estudando na faculdade
+
+- Organização e arquitetura de computadores
+- Programação de computadores
+- Modelagem de negócios e requisitos
+- Aplicações para internet
+- Empreendedorismo
+
+---
+
+### 🎧 Hobbies e interesses pessoais
+
+- 🎵 Ouvir música  
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=225aocm5uin6oztatlyqmvtuq&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=225aocm5uin6oztatlyqmvtuq&redirect=true)
-- 💗 Assistir filmes <img hight="10" width="20" align="center" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExazF1c2syb2JveXAwMXR3ZWMxNmFkc2FpNTJud2tnM2o3MGxrODBlMSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/LXCUixDV3o95m/giphy.gif">
-- 💗 Desenhar <img hight="30" width="40" align="center" src="https://media.tenor.com/dh1W3uHt_zsAAAAi/emoji-smiley.gif">
-- 💗 Jogar (MOBA/RPG/Jogos Indie!!) <img hight="10" width="20" align="center" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcW14M3k5eHFtMGNodGxlYWM1ZTdjMXhxcG85Y2xqaWc4cmtzbG5iNCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/vSdjNjzOPW2wOEUYN4/giphy.gif">
 
+- 🎬 Assistir filmes  
+- 🎨 Desenhar  
+- 🎮 Jogar (MOBA, RPG e jogos indie!)
 
-#🛠️ Tecnologias que estou aprendendo:
+---
 
-</br>
+### 🛠️ Tecnologias que estou aprendendo:
 
-<div align="center"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" title="JavaScript"/> &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" title="HTML5"/> &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" title="CSS3"/> &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" title="Python"/> &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" title="Figma"/> </div> <p align="center"> JavaScript • HTML5 • CSS3  • Python • Figma </p>
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" title="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" title="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" title="CSS3"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" title="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" title="Figma"/>
+</div>
 
-</br>
+<p align="center">
+  JavaScript • HTML5 • CSS3 • Python • Figma
+</p>
 
-# 📫 Como me encontrar:
+---
 
-✉️ irispfister.code@gmail.com
-💻 Linkedin: www.linkedin.com/in/iris-p-40982b260
+### 📫 Como me encontrar:
 
+[![Gmail Badge](https://img.shields.io/badge/-irispfister.code@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:irispfister.code@gmail.com)](mailto:irispfister.code@gmail.com)
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/iris-p-40982b260/)](https://www.linkedin.com/in/iris-p-40982b260/)
 
-<img hight="150" width="220" alt="GIF" align="left" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2djb29pZTd4cXJ1ODI4czJnZGdmeDl1b2Rzc2l4b290OTN3ejdpMSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/drqmAm0kLnqPVzFB2p/giphy.gif">
+<img align="right" height="180" src="https://media.giphy.com/media/drqmAm0kLnqPVzFB2p/giphy.gif" alt="working gif"/>
+

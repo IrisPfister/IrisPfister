@@ -1,4 +1,4 @@
-<h1 align="center">👋 Olá! Meu nome é Íris.</h1>
+<h1 align="center">👋 Olá! Meu nome é Iris.</h1>
 
 <p align="center">💻 Estudante de Análise e Desenvolvimento de Sistemas | Entusiasta de tecnologia, design e desenvolvimento front-end</p>
 

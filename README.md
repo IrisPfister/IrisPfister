@@ -53,7 +53,6 @@ Em **2023**, iniciei meus estudos em **JavaScript** e me encantei com o universo
 
 ---
 
-### 📫 Como me encontrar:
 
 ### 📫 Como me encontrar:
 

@@ -5,7 +5,7 @@ Minha paixão por tecnologia começou cedo: aos 12 anos, participei de um curso 
 Em 2023, comecei meus estudos em JavaScript e me encantei pelo mundo da programação. Desde então, venho explorando diversas linguagens e ferramentas, sempre com o objetivo de crescer profissionalmente e contribuir com projetos inovadores.
 
 
-<img hight="400" width="450" alt="GIF" align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDE4cDBpaGN1NnV6dTBvODZmdmc3aHIxZnZmcjE1MXBhcG9oY2o2aCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/Evdiauh9dyHxEcWiI1/giphy.gif">
+<img hight="400" width="450" alt="GIF" align="right" src="https://media.giphy.com/media/1tDAzdBoIl5GwAsgpd/giphy.gif?cid=ecf05e47onbp6dle4igy6yg97gj3tvyt367e4yembmplzilu&ep=v1_stickers_search&rid=giphy.gif&ct=s">
 
 ### - 📚 Atualmente estudando na faculdade:
 - <img hight="10" width="20" align="center" src="https://media.giphy.com/media/UhODKA04OkFYZTwich/giphy.gif?cid=ecf05e47m39bppj3avmbf982g0hvv0owserd30gummp32ojw&ep=v1_stickers_search&rid=giphy.gif&ct=s"> Organização e arquitetura de computadores

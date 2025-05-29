@@ -6,7 +6,7 @@
 
 ### 🧠 Sobre mim
 
-Tenho 19 anos e estou cursando **Análise e Desenvolvimento de Sistemas** na **Universidade de São Paulo (UNICID)**, atualmente no **1º semestre**.
+Tenho 19 anos e estou cursando **Análise e Desenvolvimento de Sistemas** na **Universidade cidade de São Paulo (UNICID)**, atualmente no **1º semestre**.
 
 Minha paixão por tecnologia começou cedo — aos **12 anos**, participei de um curso de robótica e descobri meu amor por **jogos e desenvolvimento**.
 
@@ -55,8 +55,15 @@ Em **2023**, iniciei meus estudos em **JavaScript** e me encantei com o universo
 
 ### 📫 Como me encontrar:
 
-[![Gmail Badge](https://img.shields.io/badge/-irispfister.code@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:irispfister.code@gmail.com)](mailto:irispfister.code@gmail.com)
-[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/iris-p-40982b260/)](https://www.linkedin.com/in/iris-p-40982b260/)
+<div align="center">
+  <a href="mailto:irispfister.code@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/iris-p-40982b260/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
 
 <img align="right" height="180" src="https://media.giphy.com/media/drqmAm0kLnqPVzFB2p/giphy.gif" alt="working gif"/>
 

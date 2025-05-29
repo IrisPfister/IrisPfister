@@ -55,16 +55,11 @@ Em **2023**, iniciei meus estudos em **JavaScript** e me encantei com o universo
 
 ### 📫 Como me encontrar:
 
-<div align="center">
-  <div align="center">
-  <a href="irispfister.code@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
-  </a>
-  &nbsp;
-  <a href="[www.linkedin.com/in/irispfister](https://www.linkedin.com/in/iris-p-40982b260/)" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-</div>
+### 📫 Como me encontrar:
+
+[![Gmail Badge](https://img.shields.io/badge/-irispfister.code@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:irispfister.code@gmail.com)
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iris-p-40982b260/)
+
 
 <img align="right" height="180" src="https://media.giphy.com/media/drqmAm0kLnqPVzFB2p/giphy.gif" alt="working gif"/>
 

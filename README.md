@@ -12,7 +12,7 @@ Minha paixão por tecnologia começou cedo — aos **12 anos**, participei de um
 
 Em **2023**, iniciei meus estudos em **JavaScript** e me encantei com o universo da programação. Desde então, venho explorando diversas linguagens e ferramentas, sempre com o objetivo de crescer profissionalmente e contribuir com projetos inovadores.
 
-<img align="right" height="200" src="https://media.giphy.com/media/1tDAzdBoIl5GwAsgpd/giphy.gif" alt="Data doesn't lie gif"/>
+<img align="right" height="150" src="https://media.giphy.com/media/1tDAzdBoIl5GwAsgpd/giphy.gif" alt="Data doesn't lie gif"/>
 
 ---
 
@@ -60,5 +60,5 @@ Em **2023**, iniciei meus estudos em **JavaScript** e me encantei com o universo
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iris-p-40982b260/)
 
 
-<img align="right" height="180" src="https://media.giphy.com/media/drqmAm0kLnqPVzFB2p/giphy.gif" alt="working gif"/>
+<img align="right" height="150" src="https://media.giphy.com/media/drqmAm0kLnqPVzFB2p/giphy.gif" alt="working gif"/>
 

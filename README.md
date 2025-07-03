@@ -6,7 +6,7 @@
 
 ### 🧠 Sobre mim
 
-Tenho 19 anos e estou cursando **Análise e Desenvolvimento de Sistemas** na **Universidade cidade de São Paulo (UNICID)**, atualmente no **1º semestre**.
+Tenho 19 anos e estou cursando **Análise e Desenvolvimento de Sistemas** na **Universidade cidade de São Paulo (UNICID)**, atualmente no **2º semestre**.
 
 Minha paixão por tecnologia começou cedo — aos **12 anos**, participei de um curso de robótica e descobri meu amor por **jogos e desenvolvimento**.
 
@@ -18,12 +18,14 @@ Em **2023**, iniciei meus estudos em **JavaScript** e me encantei com o universo
 
 ### 🎓 Atualmente estudando na faculdade
 
-- Organização e arquitetura de computadores
-- Programação de computadores
-- Modelagem de negócios e requisitos
-- Aplicações para internet
-- Empreendedorismo
-
+- Engenharia de Software
+- Programação Web
+- Sistemas Operacionais
+- Técnicas de dev. de algoritmos
+- Qualidade de software (EAD)
+- Matemática aplicada (EAD)
+- Modelagem de dados (EAD)
+- Administração da produção (Optativa)
 ---
 
 ### 🎧 Hobbies e interesses pessoais
@@ -41,14 +43,16 @@ Em **2023**, iniciei meus estudos em **JavaScript** e me encantei com o universo
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" title="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" title="Node.js"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" title="HTML5"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" title="CSS3"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" title="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="40" title="Flask"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" title="Figma"/>
 </div>
 
 <p align="center">
-  JavaScript • HTML5 • CSS3 • Python • Figma
+  JavaScript • Node.js • HTML5 • CSS3 • Python • Flask • Figma
 </p>
 
 ---

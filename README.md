@@ -22,10 +22,10 @@ Em **2023**, iniciei meus estudos em **JavaScript** e me encantei com o universo
 - Programação Web
 - Sistemas Operacionais
 - Técnicas de dev. de algoritmos
-- Qualidade de software (EAD)
-- Matemática aplicada (EAD)
-- Modelagem de dados (EAD)
-- Administração da produção (Optativa)
+- Qualidade de software *(EAD)*
+- Matemática aplicada *(EAD)*
+- Modelagem de dados *(EAD)*
+- Administração da produção *(Optativa)*
 ---
 
 ### 🎧 Hobbies e interesses pessoais

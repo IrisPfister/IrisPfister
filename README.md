@@ -1,12 +1,12 @@
 <h1 align="center">👋 Olá Mundo! Meu nome é Iris.</h1>
 
-<p align="center">💻 Estudante de Análise e Desenvolvimento de Sistemas | Entusiasta de tecnologia, design e desenvolvimento front e back-end</p>
+<p align="center"> Estudante de ADS | Back-end em foco 🔧 | Explorando APIs, lógica e sonhos com café ☕</p>
 
 ---
 
 ### 🧠 Sobre mim
 
-Tenho 19 anos e estou cursando **Análise e Desenvolvimento de Sistemas** na **Universidade cidade de São Paulo (UNICID)**, atualmente no **2º semestre**.
+Tenho 20 anos e estou cursando **Análise e Desenvolvimento de Sistemas** na **Universidade cidade de São Paulo (UNICID)**, atualmente no **2º semestre**.
 
 Minha paixão por tecnologia começou cedo — aos **12 anos**, participei de um curso de robótica e descobri meu amor por **jogos e desenvolvimento**.
 

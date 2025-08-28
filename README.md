@@ -74,7 +74,7 @@ Em **2023**, iniciei meus estudos em **JavaScript** e me encantei com o universo
   />
 
 </p>
-
+<b> 
 ### 📫 Como me encontrar:
 
 [![Gmail Badge](https://img.shields.io/badge/-irispfister.code@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:irispfister.code@gmail.com)
@@ -82,4 +82,5 @@ Em **2023**, iniciei meus estudos em **JavaScript** e me encantei com o universo
 
 
 <img align="right" height="200" src="https://media.giphy.com/media/drqmAm0kLnqPVzFB2p/giphy.gif" alt="working gif"/>
+</b>
 

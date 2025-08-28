@@ -1,14 +1,14 @@
 <h1 align="center">👋 Olá Mundo! Eu sou a Iris</h1>
 
 <p align="center">
-  Estudante de <b>ADS</b> | Foco em <b>Back-end</b> 🔧 | Explorando APIs, bancos de dados e cloud ☁️
+  Estudante de <b>ADS</b> | Foco em <b>Engenharia de Software</b> ⚙️| Explorando APIs, bancos de dados e cloud ☁️
 </p>
 
 ---
 
 ## 🧠 Sobre mim
 - 🎓 Estudante de **Análise e Desenvolvimento de Sistemas** (UNICID) — 2º semestre  
-- 💻 Foco em **desenvolvimento Back-end/Engenharia de Software**  
+- 💻 Foco em **Engenharia de Software**  
 - ☕ Apaixonada por resolver problemas com código, lógica e muito café  
 - 🚀 Buscando evoluir em projetos que unam **inovação e impacto**  
 
@@ -17,19 +17,35 @@
 ## 🛠️ Tecnologias
 
 ### 🔹 Linguagens & Frameworks
-<p align="center">
-  HTML • CSS • JavaScript (Node.js) • Python (Flask) • C • PHP
-</p>
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" title="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" title="CSS3"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" title="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" title="Node.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" title="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="50" title="Flask"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50" title="C"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="50" title="PHP"/>
+</div>
+
+---
 
 ### 🔹 Bancos de Dados
-<p align="center">
-  MongoDB • MySQL / MariaDB
-</p>
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50" title="MongoDB"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" title="MySQL"/>
+</div>
+
+---
 
 ### 🔹 Ferramentas & Cloud
-<p align="center">
-  Git • GitHub • Docker • Google Cloud Platform • Figma
-</p>
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" title="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" title="GitHub"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" title="Docker"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="50" title="Google Cloud Platform"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="50" title="Figma"/>
+</div>
 
 ---
 

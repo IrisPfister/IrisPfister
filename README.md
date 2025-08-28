@@ -11,9 +11,11 @@
 - 💻 Foco em **Engenharia de Software**  
 - ☕ Apaixonada por resolver problemas com código, lógica e muito café  
 - 🚀 Buscando evoluir em projetos que unam **inovação e impacto**  
-- 🎵 Ouvir música para codar [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=225aocm5uin6oztatlyqmvtuq&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=225aocm5uin6oztatlyqmvtuq&redirect=true)
----
 
+### 🎵 Codando com música
+[![Spotify](https://spotify-github-profile.kittinanx.com/api/view?uid=225aocm5uin6oztatlyqmvtuq&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=225aocm5uin6oztatlyqmvtuq&redirect=true)
+
+---
 
 ## 🛠️ Tecnologias
 

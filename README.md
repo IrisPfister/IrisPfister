@@ -1,14 +1,14 @@
 <h1 align="center">👋 Olá Mundo! Eu sou a Iris</h1>
 
 <p align="center">
-  Estudante de <b>ADS</b> | Foco em <b>Engenharia de Software</b> ⚙️| Explorando APIs, bancos de dados e cloud ☁️
+  Estudante de <b>ADS</b> | Foco em <b>Desenvolvimento de Software</b> ⚙️| Explorando APIs, bancos de dados e cloud ☁️
 </p>
 
 ---
 
 ## 🧠 Sobre mim
 - 🎓 Estudante de **Análise e Desenvolvimento de Sistemas** (UNICID) — 2º semestre  
-- 💻 Foco em **Engenharia de Software**  
+- 💻 Foco em **Desenvolvimento de Software**  
 - ☕ Apaixonada por resolver problemas com código, lógica e muito café  
 - 🚀 Buscando evoluir em projetos que unam **inovação e impacto**  
 

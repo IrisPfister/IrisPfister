@@ -1,25 +1,25 @@
-<h1 align="center">👋 Olá Mundo! Eu sou a Iris</h1>
+<<h1 align="center">👋 Hello World! I'm Iris</h1>
 
 <p align="center">
-  Estudante de <b>ADS</b> | Foco em <b>Desenvolvimento de Software</b> ⚙️| Explorando APIs, bancos de dados e cloud ☁️
+   <b>Software Development Student</b> | Focused on Building Smart Solutions ⚙️ | Exploring APIs, Databases & Cloud ☁️
 </p>
 
 ---
 
-## 🧠 Sobre mim
-- 🎓 Estudante de **Análise e Desenvolvimento de Sistemas** (UNICID) — 2º semestre  
-- 💻 Foco em **Desenvolvimento de Software**  
-- ☕ Apaixonada por resolver problemas com código, lógica e muito café  
-- 🚀 Buscando evoluir em projetos que unam **inovação e impacto**  
+## 🧠 About Me
+- 🎓 **Systems Analysis and Development** student (UNICID) — 2nd semester  
+- 💻 Focused on **Software Development**  
+- ☕ Passionate about solving problems with code, logic, and lots of coffee  
+- 🚀 Eager to grow through projects that combine **innovation and impact**  
 
-### 🎵 Codando com música
+### 🎵 Coding with music in the background
 [![Spotify](https://spotify-github-profile.kittinanx.com/api/view?uid=225aocm5uin6oztatlyqmvtuq&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=225aocm5uin6oztatlyqmvtuq&redirect=true)
 
 ---
 
-## 🛠️ Tecnologias
+## 🛠️ Tech Stack
 
-### 🔹 Linguagens & Frameworks
+### 🔹 Languages & Frameworks
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" title="HTML5"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" title="CSS3"/>
@@ -33,7 +33,7 @@
 
 ---
 
-### 🔹 Bancos de Dados
+### 🔹 Databases
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50" title="MongoDB"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" title="MySQL"/>
@@ -41,7 +41,7 @@
 
 ---
 
-### 🔹 Ferramentas & Cloud
+### 🔹 Tools & Cloud
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" title="Git"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" title="GitHub"/>
@@ -52,15 +52,15 @@
 
 ---
 
-## 📊 Estatísticas
+## 📊 GitHub Stats
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=IrisPfister&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"/>
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IrisPfister&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=IrisPfister&show_icons=true&theme=tokyonight&include_all_commits=true&locale=en"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IrisPfister&theme=tokyonight&layout=compact&custom_title=Top%20Languages&langs_count=9"/>
 </div>
 
 ---
 
-## 📫 Contato
+## 📫 Get in Touch
 <p align="center">
   <a href="mailto:irispfister.code@gmail.com">
     <img src="https://img.shields.io/badge/-irispfister.code@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>

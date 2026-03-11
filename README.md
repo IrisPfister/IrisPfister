@@ -13,7 +13,7 @@ Desenvolvimento de Software | APIs | Banco de Dados | Cloud
 
 ## 🧠 Sobre mim
 
-- 🎓 Estudante de **Análise e Desenvolvimento de Sistemas (UNICID)** — Presencial — 2º semestre  
+- 🎓 Estudante de **Análise e Desenvolvimento de Sistemas (UNICID)** — Presencial — 3º semestre  
 - 🎓 Estudante de **Engenharia de Software** — modalidade EAD  
 - 💻 Focada em **Desenvolvimento de Software**  
 - ⚙️ Interesse em **APIs, automações, backend e banco de dados**  

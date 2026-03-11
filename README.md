@@ -1,8 +1,7 @@
 <h1 align="center">👋 Olá! Eu sou a Iris</h1>
 
 <p align="center">
-<b>Estudante de Engenharia de Software e Análise e Desenvolvimento de Sistemas</b>  
-<br>
+<b>Estudante de Engenharia de Software e Análise e Desenvolvimento de Sistemas</b> <br>
 Desenvolvimento de Software | APIs | Banco de Dados | Cloud
 </p>
 
@@ -12,140 +11,85 @@ Desenvolvimento de Software | APIs | Banco de Dados | Cloud
 
 ---
 
-# 🧠 Sobre mim
+## 🧠 Sobre mim
 
-🎓 Estudante de **Análise e Desenvolvimento de Sistemas (UNICID)** — modalidade presencial — 3º semestre  
-🎓 Estudante de **Engenharia de Software** — modalidade EAD  
+- 🎓 Estudante de **Análise e Desenvolvimento de Sistemas (UNICID)** — Presencial — 2º semestre  
+- 🎓 Estudante de **Engenharia de Software** — modalidade EAD  
+- 💻 Focada em **Desenvolvimento de Software**  
+- ⚙️ Interesse em **APIs, automações, backend e banco de dados**  
+- ☕ Apaixonada por resolver problemas com **código, lógica e criatividade**
 
-💻 Interesse principal em **desenvolvimento backend**, com foco em:
-
-- Desenvolvimento e integração de **APIs**
-- **Automações** e integração entre sistemas
-- **Modelagem e gerenciamento de banco de dados**
-- Desenvolvimento de **soluções escaláveis**
-
-🚀 Busco constantemente aprimorar minhas habilidades por meio de **projetos práticos, estudos contínuos e desenvolvimento de soluções tecnológicas**.
+### 🎵 Programando com música de fundo
+[![Spotify](https://spotify-github-profile.kittinanx.com/api/view?uid=225aocm5uin6oztatlyqmvtuq&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=225aocm5uin6oztatlyqmvtuq&redirect=true)
 
 ---
 
-# 🚀 Projetos em Destaque
+## 🛠️ Tecnologias
 
-### 🐆 Panter.GG — Chatbot sobre a FURIA Esports
+### 🔹 Linguagens & Frameworks
 
-Aplicação de chatbot desenvolvida para responder perguntas sobre **partidas, jogadores e campeonatos da FURIA Esports**, utilizando coleta e processamento de dados da web.
+<div align="center">
 
-**Tecnologias**
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="50"/>
 
-- Python  
-- Flask  
-- BeautifulSoup  
-- Requests  
-- JavaScript  
-
-**Funcionalidades**
-
-✔ Consulta de partidas e resultados  
-✔ Informações sobre jogadores  
-✔ Integração com dados coletados da web  
-
-🔗 Projeto: *(adicione o link do repositório)*
+</div>
 
 ---
 
-### 📚 Automação de Envio de E-mails para Alunos
+### 🔹 Banco de Dados
 
-Sistema desenvolvido para **automatizar o envio de e-mails para alunos com livros pendentes**, integrando consultas a banco de dados com geração automática de mensagens personalizadas.
+<div align="center">
 
-**Tecnologias**
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50"/>
 
-- Python  
-- SQL  
-- Automação de processos  
-- Integração com serviços de e-mail  
-
-**Funcionalidades**
-
-✔ Consulta automatizada em banco de dados  
-✔ Personalização de mensagens por aluno  
-✔ Envio automático de notificações  
+</div>
 
 ---
 
-### 🎵 Sistema de Ranking de Músicas
+### 🔹 Ferramentas & Cloud
 
-Aplicação para **registro e classificação de músicas**, permitindo a criação de rankings baseados em avaliações.
+<div align="center">
 
-**Tecnologias**
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="50"/>
 
-- Backend  
-- Banco de dados  
-- Lógica de classificação  
-
----
-
-# 🛠️ Tecnologias e Ferramentas
-
-### Linguagens e Frameworks
-
-<p align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="45"/>
-</p>
-
-### Banco de Dados
-
-<p align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45"/>
-</p>
-
-### Ferramentas
-
-<p align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="45"/>
-</p>
+</div>
 
 ---
 
-# 📚 Atualmente Estudando
+## 📊 Estatísticas do GitHub
 
-- Estruturas de Dados  
-- Desenvolvimento Backend  
-- Arquitetura de Software  
-- Bancos de Dados Relacionais  
-- Desenvolvimento de APIs REST  
+<div align="center">
 
----
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=IrisPfister&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"/>
 
-# 📊 Estatísticas do GitHub
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IrisPfister&theme=tokyonight&layout=compact&custom_title=Linguagens%20Mais%20Usadas&langs_count=9"/>
 
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=IrisPfister&show_icons=true&theme=tokyonight"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IrisPfister&layout=compact&theme=tokyonight"/>
-</p>
+</div>
 
 ---
 
-# 📫 Contato
+## 📫 Contato
 
 <p align="center">
 
 <a href="mailto:irispfister.code@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/iris-p-40982b260/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 </p>
@@ -156,8 +100,80 @@ Aplicação para **registro e classificação de músicas**, permitindo a criaç
 
 # 👋 Hello! I'm Iris
 
-Software Engineering and Systems Analysis student focused on **software development, backend systems, APIs, and databases**.
+<p align="center">
+<b>Software Engineering and Systems Analysis Student</b> <br>
+Software Development | APIs | Databases | Cloud
+</p>
 
-I am particularly interested in **backend development, system integration, and automation**, and I continuously improve my skills through **hands-on projects and technical studies**.
+---
 
-Currently building projects to strengthen my experience in **backend development, data management, and API integrations**.
+## 🧠 About Me
+
+- 🎓 **Systems Analysis and Development (UNICID)** student — On-site — 3rd semester  
+- 🎓 **Software Engineering** student — Distance Learning  
+- 💻 Focused on **Software Development**  
+- ⚙️ Interested in **APIs, backend development, automations and databases**  
+- ☕ Passionate about solving problems with **code, logic and creativity**
+
+### 🎵 Coding with music in the background
+[![Spotify](https://spotify-github-profile.kittinanx.com/api/view?uid=225aocm5uin6oztatlyqmvtuq&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=225aocm5uin6oztatlyqmvtuq&redirect=true)
+
+---
+
+## 🛠️ Tech Stack
+
+### 🔹 Languages & Frameworks
+
+<div align="center">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="50"/>
+
+</div>
+
+---
+
+### 🔹 Databases
+
+<div align="center">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50"/>
+
+</div>
+
+---
+
+### 🔹 Tools & Cloud
+
+<div align="center">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="50"/>
+
+</div>
+
+---
+
+## 📫 Contact
+
+<p align="center">
+
+<a href="mailto:irispfister.code@gmail.com">
+<img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/iris-p-40982b260/">
+<img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+</p> to strengthen my experience in **backend development, data management, and API integrations**.

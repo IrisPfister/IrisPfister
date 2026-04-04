@@ -2,7 +2,7 @@
 
 <p align="center">
 <b>Estudante de Engenharia de Software e Análise e Desenvolvimento de Sistemas</b> <br>
-Desenvolvimento de Software | APIs | Banco de Dados | Cloud
+Desenvolvimento de Software | APIs | Banco de Dados | Cloud Computing ☁️
 </p>
 
 <p align="center">
@@ -15,7 +15,8 @@ Desenvolvimento de Software | APIs | Banco de Dados | Cloud
 
 - 🎓 Estudante de **Análise e Desenvolvimento de Sistemas (UNICID)** — Presencial — 3º semestre  
 - 🎓 Estudante de **Engenharia de Software** — modalidade EAD  
-- 💻 Focada em **Desenvolvimento de Software**  
+- 💻 Focada em **Desenvolvimento de Software**, com ênfase em **Java e Backend**  
+- ☁️ Conhecimentos em **Computação em Nuvem (AWS)**  
 - ⚙️ Interesse em **APIs, automações, backend e banco de dados**  
 - ☕ Apaixonada por resolver problemas com **código, lógica e criatividade**
 
@@ -30,13 +31,22 @@ Desenvolvimento de Software | APIs | Banco de Dados | Cloud
 
 <div align="center">
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50"/>
+
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50"/>
+
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="50"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50"/>
+
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50"/>
+
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="50"/>
 
 </div>
@@ -47,21 +57,36 @@ Desenvolvimento de Software | APIs | Banco de Dados | Cloud
 
 <div align="center">
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50"/>
 
 </div>
 
 ---
 
-### 🔹 Ferramentas & Cloud
+### 🔹 Cloud & DevOps
+
+<div align="center">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="60"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="50"/>
+
+</div>
+
+---
+
+### 🔹 Ferramentas
 
 <div align="center">
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50"/>
+
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="50"/>
+
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="50"/>
 
 </div>
@@ -102,7 +127,7 @@ Desenvolvimento de Software | APIs | Banco de Dados | Cloud
 
 <p align="center">
 <b>Software Engineering and Systems Analysis Student</b> <br>
-Software Development | APIs | Databases | Cloud
+Software Development | APIs | Databases | Cloud Computing ☁️
 </p>
 
 ---
@@ -111,7 +136,8 @@ Software Development | APIs | Databases | Cloud
 
 - 🎓 **Systems Analysis and Development (UNICID)** student — On-site — 3rd semester  
 - 🎓 **Software Engineering** student — Distance Learning  
-- 💻 Focused on **Software Development**  
+- 💻 Focused on **Software Development**, with emphasis on **Java and Backend**  
+- ☁️ Knowledge in **Cloud Computing (AWS)**  
 - ⚙️ Interested in **APIs, backend development, automations and databases**  
 - ☕ Passionate about solving problems with **code, logic and creativity**
 
@@ -126,13 +152,22 @@ Software Development | APIs | Databases | Cloud
 
 <div align="center">
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50"/>
+
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50"/>
+
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="50"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50"/>
+
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50"/>
+
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="50"/>
 
 </div>
@@ -143,22 +178,23 @@ Software Development | APIs | Databases | Cloud
 
 <div align="center">
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50"/>
 
 </div>
 
 ---
 
-### 🔹 Tools & Cloud
+### 🔹 Cloud & DevOps
 
 <div align="center">
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="60"/>
+
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50"/>
+
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="50"/>
 
 </div>
 
@@ -176,4 +212,4 @@ Software Development | APIs | Databases | Cloud
 <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-</p> to strengthen my experience in **backend development, data management, and API integrations**.
+</p>

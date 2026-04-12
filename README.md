@@ -16,7 +16,7 @@ Desenvolvimento de Software | APIs | Banco de Dados | Cloud Computing ☁️
 - 🎓 Estudante de **Análise e Desenvolvimento de Sistemas (UNICID)** — Presencial — 3º semestre  
 - 🎓 Estudante de **Engenharia de Software** — modalidade EAD  
 - 💻 Focada em **Desenvolvimento de Software**, com ênfase em **Java e Backend**  
-- ☁️ Conhecimentos em **Computação em Nuvem (AWS)**  
+- ☁️ Conhecimentos em **Computação em Nuvem (AWS e GCP)**  
 - ⚙️ Interesse em **APIs, automações, backend e banco de dados**  
 - ☕ Apaixonada por resolver problemas com **código, lógica e criatividade**
 
@@ -126,7 +126,7 @@ Software Development | APIs | Databases | Cloud Computing ☁️
 - 🎓 **Systems Analysis and Development (UNICID)** student — On-site — 3rd semester  
 - 🎓 **Software Engineering** student — Distance Learning  
 - 💻 Focused on **Software Development**, with emphasis on **Java and Backend**  
-- ☁️ Knowledge in **Cloud Computing (AWS)**  
+- ☁️ Knowledge in **Cloud Computing (AWS and GCP)**  
 - ⚙️ Interested in **APIs, backend development, automations and databases**  
 - ☕ Passionate about solving problems with **code, logic and creativity**
 
